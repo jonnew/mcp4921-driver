@@ -1,0 +1,17 @@
+# Syntax highlighting
+
+# Class (KEYWORD1)
+MCP4921	KEYWORD1
+	
+# Public methods(KEYWORD2)
+send_test_waveform	KEYWORD2
+load_voltage	KEYWORD2
+load_dac	KEYWORD2
+generate_waveform	KEYWORD2
+shutdown_dac	KEYWORD2
+
+# Constants (LITERAL1)
+DAC_CONF_ACTIVE	LITERAL1
+DAC_CONF_SHDN	LITERAL1
+NOM_WIPER_POS	LITERAL1
+	
